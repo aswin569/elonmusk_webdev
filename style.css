@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+    
+    text-align: center;
+
+}
+h2{color: black;
+    font-size:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+body{
+    background-image: url(https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/4/7/2/0/35640274-3-eng-GB/Cropped-1627662935photo.JPG);
+    
+
+    
+}
+p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+h3{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+
+
